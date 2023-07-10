@@ -10,8 +10,8 @@ CPP projects
 
 Golang
 
-[node-tests](https://bitbucket.org/nomadini/node-test/src/master/) - an Alternative to Datadog's Synthetics
-[evm-indexer](https://bitbucket.org/nomadini/evm-indexer/src/master/README.md) - an Ethereum blockchain indexer
+- [node-tests](https://bitbucket.org/nomadini/node-test/src/master/) - an Alternative to Datadog's Synthetics
+- [evm-indexer](https://bitbucket.org/nomadini/evm-indexer/src/master/README.md) - an Ethereum blockchain indexer
 
 <!--
 **taabodim/taabodim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
