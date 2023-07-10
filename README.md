@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+These are some of the projects I have been working on. 
+
+- (Pocono)[https://bitbucket.org/nomadini/pocono/src/master/] - a general purpose library in c++
+
 <!--
 **taabodim/taabodim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
