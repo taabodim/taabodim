@@ -8,6 +8,10 @@ CPP projects
 - [Pocono](https://bitbucket.org/nomadini/pocono/src/master/) - a general purpose library, which is WIP at the moment.
 - [Audicnce Scorer](https://bitbucket.org/nomadini/scorer/src/master/README.md) - scores devices and creates segments based on the models created by Modeler
 
+
+Python projects
+- [Stream processing](https://bitbucket.org/nomadini/streamprocessing/README.md) -  a Streaming analytics framework where we show how to analyze data using different tools
+
 Golang
 
 - [node-tests](https://bitbucket.org/nomadini/node-test/src/master/) - an Alternative to Datadog's Synthetics
