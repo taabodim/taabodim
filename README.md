@@ -10,7 +10,7 @@ CPP projects
 
 
 Python projects
-- [Stream processing](https://bitbucket.org/nomadini/streamprocessing/README.md) -  a Streaming analytics framework where we show how to analyze data using different tools
+- [Stream processing](https://bitbucket.org/nomadini/streamprocessing/src/master/README.md)) -  a Streaming analytics framework where we show how to analyze data using different tools
 
 Golang
 
