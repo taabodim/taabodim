@@ -1,13 +1,16 @@
 ### Hi there 👋
 
 These are some of the projects I have been working on. 
+
 Python projects
+
 - [Stream processing](https://bitbucket.org/nomadini/streamprocessing/src/master/README.md) -  a Streaming analytics framework where we show how to analyze data using different tools
 - [RapidPyBoost](https://bitbucket.org/nomadini/rapidpyboost/src/master/README.md) - an example project that demonstrates how we can use cython, libuv to create high performance networking applications in Python.
   
 
 CPP projects
-[Pocono](https://bitbucket.org/nomadini/pocono/src/master/) - a general purpose library, which is WIP at the moment.
+
+- [Pocono](https://bitbucket.org/nomadini/pocono/src/master/) - a general purpose library, which is WIP at the moment.
 - [RTB bidder](https://bitbucket.org/nomadini/bidder/src/master/README.md) - an RTB bidder
 - [SVM SGD modeler](https://bitbucket.org/nomadini/modeler/src/master/README.md) - a SVM SGD modeler app using Shogun library.
 - [Audicnce Scorer](https://bitbucket.org/nomadini/scorer/src/master/README.md) - scores devices and creates segments based on the models created by Modeler
