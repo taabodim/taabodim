@@ -11,14 +11,14 @@ Python projects
 CPP projects
 
 - [Pocono](https://bitbucket.org/nomadini/pocono/src/master/) - a general purpose library, which is WIP at the moment.
-- [RTB bidder](https://bitbucket.org/nomadini/bidder/src/master/README.md) - an RTB bidder
-- [SVM SGD modeler](https://bitbucket.org/nomadini/modeler/src/master/README.md) - a SVM SGD modeler app using Shogun library.
-- [Audicnce Scorer](https://bitbucket.org/nomadini/scorer/src/master/README.md) - scores devices and creates segments based on the models created by Modeler
+- [RTB bidder](https://bitbucket.org/nomadini/bidder/src/master/) - an RTB bidder
+- [SVM SGD modeler](https://bitbucket.org/nomadini/modeler/src/master/) - a SVM SGD modeler app using Shogun library.
+- [Audience Scorer](https://bitbucket.org/nomadini/scorer/src/master/) - scores devices and creates segments based on the models created by Modeler
 
 Golang
 
 - [node-tests](https://bitbucket.org/nomadini/node-test/src/master/) - an Alternative to Datadog's Synthetics
-- [evm-indexer](https://bitbucket.org/nomadini/evm-indexer/src/master/README.md) - an Ethereum blockchain indexer
+- [evm-indexer](https://bitbucket.org/nomadini/evm-indexer/src/master/) - an Ethereum blockchain indexer
 
 <!--
 **taabodim/taabodim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
