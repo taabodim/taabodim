@@ -2,12 +2,11 @@
 
 These are some of the projects I have been working on. 
 
-Python projects
 
-- [Stream processing](https://bitbucket.org/nomadini/streamprocessing/src/master/README.md) -  a Streaming analytics framework where we show how to analyze data using different tools
-- [RapidPyBoost](https://bitbucket.org/nomadini/rapidpyboost/src/master/README.md) - an example project that demonstrates how we can use cython, libuv to create high performance networking applications in Python.
+Rust Projects
+
+- [Tiny-Lucy](https://bitbucket.org/nomadini/tiny-lucy/src/main/) - a small search engine exposing api to index text data and provides search functionality for it.
   
-
 CPP projects
 
 - [Pocono](https://bitbucket.org/nomadini/pocono/src/master/) - a general purpose library, which is WIP at the moment.
@@ -19,6 +18,11 @@ Golang
 
 - [node-tests](https://bitbucket.org/nomadini/node-test/src/master/) - an Alternative to Datadog's Synthetics
 - [evm-indexer](https://bitbucket.org/nomadini/evm-indexer/src/master/) - an Ethereum blockchain indexer
+
+Python projects
+
+- [Stream processing](https://bitbucket.org/nomadini/streamprocessing/src/master/) -  a Streaming analytics framework where we show how to analyze data using different tools
+- [RapidPyBoost](https://bitbucket.org/nomadini/rapidpyboost/src/master/) - an example project that demonstrates how we can use cython, libuv to create high performance networking applications in Python.
 
 <!--
 **taabodim/taabodim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
