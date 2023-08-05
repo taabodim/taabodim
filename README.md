@@ -5,7 +5,7 @@ These are some of the projects I have been working on.
 
 Rust Projects
 
-- [Tiny-Lucy](https://bitbucket.org/nomadini/tiny-lucy/src/main/) - a small search engine exposing api to index text data and provides search functionality for it.
+- [Tiny-Lucy](https://bitbucket.org/nomadini/tiny-lucy/src/main/) - a small search engine exposing api to index and search your data.
   
 CPP projects
 
