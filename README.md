@@ -1,11 +1,13 @@
 ### Hi there 👋
 
+Here is the link to [my resume](https://github.com/taabodim/taabodim/mt_sept_24_2023.pdf)
+
 These are some of the projects I have been working on. 
 
-
 Rust Projects
-
-- [Tiny-Lucy](https://bitbucket.org/nomadini/tiny-lucy/src/main/) - a small search engine exposing api to index and search your data.
+- a rate-limiter in Rust (https://bitbucket.org/nomadini/rate-limiter/src/main/)
+- a trading system integration between aori and bloxroute in Rust (https://bitbucket.org/nomadini/aori-bloxroute-integration/src/main/)
+- [tiny-lucy](https://bitbucket.org/nomadini/tiny-lucy/src/main/) - a small search engine exposing api to index and search your data.
   
 CPP projects
 
