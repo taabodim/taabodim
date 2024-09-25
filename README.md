@@ -5,10 +5,11 @@ Here is the link to [my resume](https://github.com/taabodim/taabodim/blob/main/m
 These are some of the projects I have been working on. 
 
 Rust Projects
-- a rate-limiter in Rust (https://bitbucket.org/nomadini/rate-limiter/src/main/)
-- a trading system integration between aori and bloxroute in Rust (https://bitbucket.org/nomadini/aori-bloxroute-integration/src/main/)
 - [tiny-lucy](https://bitbucket.org/nomadini/tiny-lucy/src/main/) - a small search engine exposing api to index and search your data.
-  
+- (intent-based trading)[https://bitbucket.org/nomadini/aori-bloxroute-integration/src/main/] - a trading system integration between aori and bloxroute
+- [rate-limiter](https://bitbucket.org/nomadini/rate-limiter/src/main/) - a Distributed rate-limiter implementation (WIP)
+
+
 CPP projects
 
 - [Pocono](https://bitbucket.org/nomadini/pocono/src/master/) - a general purpose library, which is WIP at the moment.
