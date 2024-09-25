@@ -6,7 +6,7 @@ These are some of the projects I have been working on.
 
 Rust Projects
 - [tiny-lucy](https://bitbucket.org/nomadini/tiny-lucy/src/main/) - a small search engine exposing api to index and search your data.
-- (intent-based trading)[https://bitbucket.org/nomadini/aori-bloxroute-integration/src/main/] - a trading system integration between aori and bloxroute
+- [intent-based trading](https://bitbucket.org/nomadini/aori-bloxroute-integration/src/main/) - a trading system integration between aori and bloxroute
 - [rate-limiter](https://bitbucket.org/nomadini/rate-limiter/src/main/) - a Distributed rate-limiter implementation (WIP)
 
 
