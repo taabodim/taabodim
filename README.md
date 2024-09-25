@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here is the link to [my resume](https://github.com/taabodim/taabodim/mt_sept_24_2023.pdf](https://github.com/taabodim/taabodim/blob/main/mt_sept_24_2023.pdf)
+Here is the link to [my resume](https://github.com/taabodim/taabodim/blob/main/mt_sept_24_2023.pdf)
 
 These are some of the projects I have been working on. 
 
