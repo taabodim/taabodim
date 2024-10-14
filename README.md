@@ -1,21 +1,20 @@
 ### Hi there 👋
 
-Here is the link to [my resume](https://github.com/taabodim/taabodim/blob/main/mt_oct_13_2023.pdf)
+Here is the link to [my resume](https://github.com/taabodim/taabodim/blob/main/mt_oct_13_2024.pdf)
 
 These are some of the projects I have been working on. 
 
 Rust Projects
+- [Distributed Rate-limiter](https://bitbucket.org/nomadini/rate-limiter/src/main/README.md) - a Distributed Rate Limiter using Redis
+- [Distributed Lock](https://bitbucket.org/nomadini/distributed-lock/src/main/README.md) - a Distributed Lock in Rust using Postgres 
 - [tiny-lucy](https://bitbucket.org/nomadini/tiny-lucy/src/main/) - a small search engine exposing api to index and search your data.
-- [rate-limiter](https://bitbucket.org/nomadini/rate-limiter/src/main/) - a Distributed rate-limiter implementation (WIP)
 
-
-CPP projects
-
-- [Pocono](https://bitbucket.org/nomadini/pocono/src/master/) - a general purpose library, which is WIP at the moment.
+Cpp projects
 - [RTB bidder](https://bitbucket.org/nomadini/bidder/src/master/) - an RTB bidder
 - [SVM SGD modeler](https://bitbucket.org/nomadini/modeler/src/master/) - a SVM SGD modeler app using Shogun library.
 - [Audience Scorer](https://bitbucket.org/nomadini/scorer/src/master/) - scores devices and creates segments based on the models created by Modeler
-
+- [Pocono](https://bitbucket.org/nomadini/pocono/src/master/) - a general purpose library, which is WIP at the moment.
+  
 Golang
 
 - [node-tests](https://bitbucket.org/nomadini/node-test/src/master/) - an Alternative to Datadog's Synthetics
